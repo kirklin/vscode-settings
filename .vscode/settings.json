@@ -8,8 +8,9 @@
   "workbench.fontAliasing": "antialiased",
   "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss06', 'zero'",
-  
+
   // Editor
+  "editor.fontSize": 18,
   "editor.accessibilitySupport": "off",
   "editor.cursorSmoothCaretAnimation": true,
   "editor.find.addExtraSpaceOnTop": false,
