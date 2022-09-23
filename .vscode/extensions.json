@@ -1,0 +1,38 @@
+{
+  "recommendations": [
+    // keybindings 
+    "k--kato.intellij-idea-keybindings",
+
+    "antfu.browse-lite",
+    "antfu.iconify",
+    "antfu.slidev",
+    "antfu.unocss",
+    "antfu.vite",
+    "lokalise.i18n-ally",
+
+    // themes & icons
+    "akamud.vscode-theme-onedark",
+    "file-icons.file-icons",
+
+    // life savers!
+    "dbaeumer.vscode-eslint",
+    "Vue.volar",
+    "GitHub.copilot",
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+    "2gua.rainbow-brackets",
+
+    // up to you
+    "amodio.tsl-problem-matcher",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "GitHub.vscode-pull-request-github",
+    "mpontus.tab-cycle",
+    "naumovs.color-highlight",
+    "richie5um2.vscode-sort-json",
+    "unional.vscode-sort-package-json",
+    "voorjaar.windicss-intellisense",
+    "WakaTime.vscode-wakatime",
+    "znck.grammarly"
+  ]
+}
